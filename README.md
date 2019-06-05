@@ -3,6 +3,8 @@
 ### IP Address
     13.126.144.201
 
+### SSH Port
+    2200
 
 ### URL
     http://catalog.flairsome.com
