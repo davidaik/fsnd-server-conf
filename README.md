@@ -16,7 +16,7 @@
 4. Python 3.6 virtual environment at /home/ubuntu/venvs/venv
 5. The following packages plus more are installed in the virtualenv.
 
-
+###### :-
     Flask==1.0.3
     google-api-python-client==1.7.9
     google-auth==1.6.3
@@ -39,4 +39,3 @@
 ### Third-party resources used
 
 1. Amazon Lightsail
-
