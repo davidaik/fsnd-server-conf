@@ -14,31 +14,16 @@
 2. Apache 2.4.29
 3. Postgresql 10.8
 4. Python 3.6 virtual environment at /home/ubuntu/venvs/venv
-5. The following packages are installed in the virtualenv.
+5. The following packages plus more are installed in the virtualenv.
 
-	cachetools==3.1.1
-	certifi==2019.3.9
-	chardet==3.0.4
-	Click==7.0
-	Flask==1.0.3
-	google-api-python-client==1.7.9
-	google-auth==1.6.3
-	google-auth-httplib2==0.0.3
-	httplib2==0.12.3
-	idna==2.8
-	itsdangerous==1.1.0
-	Jinja2==2.10.1
-	MarkupSafe==1.1.1
-	psycopg2==2.8.2
-	pyasn1==0.4.5
-	pyasn1-modules==0.2.5
-	requests==2.22.0
-	rsa==4.0
-	six==1.12.0
-	SQLAlchemy==1.3.4
-	uritemplate==3.0.0
-	urllib3==1.25.3
-	Werkzeug==0.15.4
+    Flask==1.0.3
+    google-api-python-client==1.7.9
+    google-auth==1.6.3
+    google-auth-httplib2==0.0.3
+    httplib2==0.12.3
+    psycopg2==2.8.2
+    SQLAlchemy==1.3.4
+
 
 ### Configurations
 
